@@ -385,5 +385,31 @@ img {
     .gallery .image:nth-child(6) {
         grid-row: 2 / 4;
     }
+}
 
+
+/* Footer */
+.footer {
+    height: 50rem;
+    background-image: linear-gradient(to top, rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), 
+    url(../img/footer.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    color: var(--white);
+}
+
+.footer a {
+    color: var(--white);
+    font-size: 2rem;
+}
+
+.copyright {
+    background-color: var(--black);
+    text-align: center;
+    margin: 5rem 0 0 0;
+    padding: 1rem;
 }
