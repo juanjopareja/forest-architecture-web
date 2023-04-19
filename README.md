@@ -12,6 +12,7 @@ Página web comercial para una empresa de arquitectura, que forma parte de un co
   * [TechPRO](https://github.com/juanjopareja/techpro-web)
   * [Forest Architecture](https://github.com/juanjopareja/forest-architecture-web)
   * [Nucleus](https://github.com/juanjopareja/nucleus-web)
+  * [La Cafetería](https://github.com/juanjopareja/la-cafeteria-web)
 
 ## Vista previa
 <p align="center"><br>
